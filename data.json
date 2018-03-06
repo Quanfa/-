@@ -1,0 +1,62 @@
+{
+	"sign": {
+		"User": [
+			{
+				"username": "18816740425",
+				"password": "123456"
+			},
+			{
+				"username": "18816740435",
+				"password": "12345678"
+			}
+		],
+		"name": "张三",
+		"password": "123456",
+		"phone": "18816740435",
+		"mail": "82392274@qq.com",
+		"title": "登陆",
+		"banner": [
+			{
+				"infor": "应用与发展趋势应用与发展趋势",
+				"bannerImg": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+			},
+			{
+				"infor": "应用与发展趋势应用与发展趋势2",
+				"bannerImg": "http://img-pool1.1tu.com/thumbs/1251465/vector/4343/43437001/api_thumb_450.jpg"
+			},
+			{
+				"infor": "应用与发展趋势应用与发展趋势3",
+				"bannerImg": "http://img-pool1.1tu.com/thumbs/2000583/image/3063/30632001/api_thumb_450.jpg"
+			},
+			{
+				"infor": "应用与发展趋势应用与发展趋势4",
+				"bannerImg": "http://img-pool9.1tu.com/thumbs/1559686/image/1228/12286955/api_thumb_450.jpg"
+			}
+		],
+		"Infor": [
+			{
+				"inforTit": "硬蛋与云知声正将人工智能向IoT全",
+				"textDel": "随着AI(人工智能)技术的快速进步，已成为当前的业界共识，多年来致力于将优势",
+				"time": "2017-07-14",
+				"likes": "0",
+				"inforImg": "http://img-pool1.1tu.com/thumbs/1559686/image/2861/28615723/api_thumb_450.jpg"
+			},
+			{
+				"inforTit": "硬蛋与云知声正将人工智能向IoT全222",
+				"textDel": "随着AI(人工智能)技术的快速进步，已成为当前的业界共识，多年来致力于将优势222",
+				"time": "2017-07-142",
+				"likes": "554",
+				"inforImg": "http://img-pool2.1tu.com/thumbs/2219414/vector/9518/95182068/api_thumb_450.jpg"
+			},
+			{
+				"inforTit": "硬蛋与云知声正将人工智能向IoT全333",
+				"textDel": "随着AI(人工智能)技术的快速进步，已成为当前的业界共识，多年来致力于将优势333",
+				"time": "2017-07-143",
+				"likes": "22",
+				"inforImg": "http://img-pool1.1tu.com/thumbs/1380064/image/2259/22598471/api_thumb_450.jpg"
+			}
+			
+		]
+		
+	}
+}
